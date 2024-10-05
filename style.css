@@ -108,6 +108,7 @@ article ul li img:hover {
     /* position: relative;
     top:-4px */
     transform: scale(1.01);
+     cursor:pointer;
 }
 
 article p::first-letter {
