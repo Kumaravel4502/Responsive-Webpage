@@ -71,6 +71,7 @@ nav ul {
 nav li:hover {
     text-decoration: underline;
     font-weight: bold;
+    cursor:pointer;
 }
 
 
@@ -149,6 +150,7 @@ section.states ul li a {
 section.states ul li a:hover {
     text-decoration: underline;
     font-weight: bold;
+    cursor:pointer;
 }
 
 /* Footer */
@@ -196,6 +198,7 @@ hr {
     nav li {
         display: block;
         line-height: 3px;
+        cursor:pointer;
     }
 
     nav {
@@ -205,6 +208,7 @@ hr {
     article ul li {
         display: block;
         width: 100%;
+        cursor:pointer;
     }
 
     .states-list {
